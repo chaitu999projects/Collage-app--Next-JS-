@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 const HomePage = () => {
   return (
-    <div className="min-h-screen bg-gradient-to-b from-amber-50 to-amber-100 ">
+    <div className="min-h-screen bg-gradient-to-b from-amber-50 to-amber-100 mt-10">
       {/* Hero Section */}
       <div className="relative overflow-hidden">
         <div className="max-w-7xl mx-auto">

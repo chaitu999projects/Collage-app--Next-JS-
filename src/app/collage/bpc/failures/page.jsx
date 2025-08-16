@@ -1,6 +1,6 @@
 const FailuresPage = () => {
   return (
-    <div className="min-h-screen bg-amber-50 py-12 px-4 sm:px-6 lg:px-8">
+    <div className="min-h-screen bg-amber-50 py-12 px-4 sm:px-6 lg:px-8 mt-10">
       <div className="max-w-3xl mx-auto">
         {/* Page Header */}
         <div className="text-center mb-12">
